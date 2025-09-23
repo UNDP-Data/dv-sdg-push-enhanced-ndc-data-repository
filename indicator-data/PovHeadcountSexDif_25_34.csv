@@ -14431,7 +14431,6 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region,Enhanced NDC
 0.02607,0.00071,0.00041,2098,PovHeadcountSexDif_25_34,UNDP HDI High,-0.00054
 0.02353,0.00058,0.00034,2099,PovHeadcountSexDif_25_34,UNDP HDI High,-0.00048
 0.02122,0.00048,0.00029,2100,PovHeadcountSexDif_25_34,UNDP HDI High,-0.00045
-,,,2101,PovHeadcountSexDif_25_34,UNDP HDI High,
 53.62,53.62,53.62,2019,PovHeadcountSexDif_25_34,UNDP HDI Low,3.87585
 56.92,56.92,56.92,2020,PovHeadcountSexDif_25_34,UNDP HDI Low,3.90452
 57.71,57.71,57.71,2021,PovHeadcountSexDif_25_34,UNDP HDI Low,3.8455
@@ -14514,7 +14513,6 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region,Enhanced NDC
 4.07376,0.37332,0.35131,2098,PovHeadcountSexDif_25_34,UNDP HDI Low,0.39941
 3.78344,0.33345,0.31271,2099,PovHeadcountSexDif_25_34,UNDP HDI Low,0.38173
 3.51965,0.29762,0.27864,2100,PovHeadcountSexDif_25_34,UNDP HDI Low,0.3646
-,,,2101,PovHeadcountSexDif_25_34,UNDP HDI Low,
 31.36,31.36,31.36,2019,PovHeadcountSexDif_25_34,UNDP HDI Medium,4.46664
 33.47,33.47,33.47,2020,PovHeadcountSexDif_25_34,UNDP HDI Medium,4.28959
 30.22,30.22,30.22,2021,PovHeadcountSexDif_25_34,UNDP HDI Medium,4.30931
@@ -14597,7 +14595,6 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region,Enhanced NDC
 2.49292,1.09773,1.05276,2098,PovHeadcountSexDif_25_34,UNDP HDI Medium,-0.03854
 2.42661,1.03439,0.99546,2099,PovHeadcountSexDif_25_34,UNDP HDI Medium,-0.03782
 2.36167,0.97672,0.94147,2100,PovHeadcountSexDif_25_34,UNDP HDI Medium,-0.03715
-,,,2101,PovHeadcountSexDif_25_34,UNDP HDI Medium,
 1.0022,1.0022,1.0022,2019,PovHeadcountSexDif_25_34,UNDP HDI Very High,0.18154
 1.18881,1.18881,1.18881,2020,PovHeadcountSexDif_25_34,UNDP HDI Very High,0.16659
 1.08453,1.08453,1.08453,2021,PovHeadcountSexDif_25_34,UNDP HDI Very High,0.15962
@@ -14680,7 +14677,6 @@ Baseline,SDG Push,JET SDG,Year,indicator,Country/Region,Enhanced NDC
 0.01698,0.00149,0.00145,2098,PovHeadcountSexDif_25_34,UNDP HDI Very High,-0.00031
 0.01642,0.00135,0.00133,2099,PovHeadcountSexDif_25_34,UNDP HDI Very High,-0.0003
 0.01595,0.00123,0.00123,2100,PovHeadcountSexDif_25_34,UNDP HDI Very High,-0.00029
-,,,2101,PovHeadcountSexDif_25_34,UNDP HDI Very High,
 4.669,4.669,4.669,2019,PovHeadcountSexDif_25_34,UNSG Central & Southern Asia,4.66879
 4.494,4.494,4.494,2020,PovHeadcountSexDif_25_34,UNSG Central & Southern Asia,4.49418
 4.48,4.48,4.48,2021,PovHeadcountSexDif_25_34,UNSG Central & Southern Asia,4.47963

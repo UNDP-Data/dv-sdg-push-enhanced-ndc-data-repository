@@ -95,11 +95,6 @@
     "units": ""
   },
   {
-    "id": "PovHeadcountTotalSexDif",
-    "name": "Poverty Headcount, Sex Difference By Age",
-    "units": "Millions"
-  },
-  {
     "id": "PovRateTotalSexDif",
     "name": "Poverty Rate, Sex Difference (Female Minus Male, Percent)",
     "units": ""
