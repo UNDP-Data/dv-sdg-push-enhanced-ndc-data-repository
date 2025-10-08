@@ -1,12 +1,27 @@
-Country,HDI Classification,SDG Push 3.0 Impact,ISO3
-Djibouti,Low HDI,No Accelerated Poverty Reduction,DJI
-Liberia,Low HDI,Benefiting from Faster Poverty Elimination,LBR
-Gambia,Low HDI,Benefiting from Faster Poverty Elimination,GMB
-Eritrea,Low HDI,Benefiting from Faster Poverty Elimination,ERI
-Senegal,Low HDI,Benefiting from Faster Poverty Elimination,SEN
-Mali,Low HDI,Benefiting from Faster Poverty Elimination,MLI
-Burkina Faso,Low HDI,Benefiting from Faster Poverty Elimination,BFA
-Pakistan,Low HDI,Benefiting from Faster Poverty Elimination,PAK
-Benin,Low HDI,Benefiting from Faster Poverty Elimination,BEN
-Ethiopia,Low HDI,Benefiting from Faster Poverty Elimination,ETH
-Guinea,Low HDI,Benefiting from Faster Poverty Elimination,GIN
+ISO3,Country,HDI Classification,SDG Push 3.0 Impact
+LBR,Liberia,Low human development,Benefiting from Faster Poverty Elimination
+GMB,Gambia,Low human development,Benefiting from Faster Poverty Elimination
+ERI,Eritrea,Low human development,Benefiting from Faster Poverty Elimination
+SEN,Senegal,Low human development,Benefiting from Faster Poverty Elimination
+MLI,Mali,Low human development,Benefiting from Faster Poverty Elimination
+BFA,Burkina Faso,Low human development,Benefiting from Faster Poverty Elimination
+PAK,Pakistan,Low human development,Benefiting from Faster Poverty Elimination
+BEN,Benin,Low human development,Benefiting from Faster Poverty Elimination
+ETH,Ethiopia,Low human development,Benefiting from Faster Poverty Elimination
+GIN,Guinea,Low human development,Benefiting from Faster Poverty Elimination
+DJI,Djibouti,Low human development,No Accelerated Poverty Reduction
+AFG,Afghanistan,Low human development,No Accelerated Poverty Reduction
+BDI,Burundi,Low human development,No Accelerated Poverty Reduction
+CAF,Central African Republic,Low human development,No Accelerated Poverty Reduction
+TCD,Chad,Low human development,No Accelerated Poverty Reduction
+COD,Democratic Republic of the Congo,Low human development,No Accelerated Poverty Reduction
+GNB,Guinea-Bissau,Low human development,No Accelerated Poverty Reduction
+MDG,Madagascar,Low human development,No Accelerated Poverty Reduction
+MWI,Malawi,Low human development,No Accelerated Poverty Reduction
+MOZ,Mozambique,Low human development,No Accelerated Poverty Reduction
+NER,Niger,Low human development,No Accelerated Poverty Reduction
+SLE,Sierra Leone,Low human development,No Accelerated Poverty Reduction
+SOM,Somalia,Low human development,No Accelerated Poverty Reduction
+SDN,Sudan,Low human development,No Accelerated Poverty Reduction
+SSD,South Sudan,Low human development,No Accelerated Poverty Reduction
+YEM,Yemen,Low human development,No Accelerated Poverty Reduction
